@@ -1,2 +1,3 @@
 # NaoV6
-A collection of good-to-know knowledge for the NaoV6 Robot in the Robocup context.
+
+This repository (and it's wiki) contains example code and knowledge for the Nao(v6)-Robot that was gathered over time by all Robocup-SPL teams. Feel free to contribute!
